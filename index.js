@@ -1,5 +1,3 @@
-var e = $(".custom-select");
-
 $('.bb1').on('input', function() {
     $('.bb1text').text('$' + $(this).val() + 'k');
     $('#rw1').text(Math.round(($(this).val() / parseInt($('#br1').text()))))
