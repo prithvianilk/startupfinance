@@ -1,6 +1,6 @@
-# startupfinance
+# <a href = "https://prithvianilk.github.io/startupfinance/.">startupfinance</a>
 A simple tool for startups to understand the financial state of their company.
-<a href = "https://prithvianilk.github.io/startupfinance/.">link</a>
+
 
 ## Resources Used
 It is made with HTML, CSS, JavaScript, jQuery and MDBootstrap.
